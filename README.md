@@ -16,7 +16,9 @@ The app will be running at [http://localhost:3000](http://localhost:3000).
 - **Next.js 16** - React framework with App Router
 - **React 19** - UI library
 - **Tailwind CSS 4** - Utility-first CSS
-- **[shadcn/ui](https://ui.shadcn.com/)** - Accessible component library
+- **[shadcn/ui](https://ui.shadcn.com/)** - Accessible component library (Base UI)
+- **[Zod 4](https://zod.dev/)** - Schema validation
+- **[Biome](https://biomejs.dev/)** - Linting (`bun run lint`); `bun run check` also typechecks
 
 ## Interview Instructions
 
